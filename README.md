@@ -1,3 +1,2 @@
 # Key-X
-Este es una prueba para ver como funciona 
-GitHub
+Pagina web enfocada en venta de claves online 
